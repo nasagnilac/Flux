@@ -1,0 +1,69 @@
+[23-Jan-2016 22:10:55 Asia/Singapore] PHP Parse error:  syntax error, unexpected '<' in /home/ragnarok/public_html/prestige/index.php on line 8
+[23-Jan-2016 22:10:57 Asia/Singapore] PHP Parse error:  syntax error, unexpected '<' in /home/ragnarok/public_html/prestige/index.php on line 8
+[24-Jan-2016 04:21:37 Asia/Singapore] PHP Warning:  Invalid argument supplied for foreach() in /home/ragnarok/public_html/prestige/themes/default/main/status.php on line 62
+[24-Jan-2016 04:21:37 Asia/Singapore] PHP Notice:  Undefined variable: online_player in /home/ragnarok/public_html/prestige/themes/default/main/status.php on line 76
+[24-Jan-2016 04:21:37 Asia/Singapore] PHP Notice:  Undefined variable: mapserver in /home/ragnarok/public_html/prestige/themes/default/main/status.php on line 77
+[24-Jan-2016 04:21:37 Asia/Singapore] PHP Notice:  Undefined variable: woe_status in /home/ragnarok/public_html/prestige/themes/default/main/status.php on line 78
+[24-Jan-2016 04:21:37 Asia/Singapore] PHP Notice:  Undefined variable: online_player in /home/ragnarok/public_html/prestige/themes/default/main/status.php on line 81
+[24-Jan-2016 04:21:37 Asia/Singapore] PHP Notice:  Undefined variable: mapserver in /home/ragnarok/public_html/prestige/themes/default/main/status.php on line 82
+[24-Jan-2016 04:21:37 Asia/Singapore] PHP Notice:  Undefined variable: woe_status in /home/ragnarok/public_html/prestige/themes/default/main/status.php on line 83
+[24-Jan-2016 21:00:20 Asia/Singapore] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[25-Jan-2016 03:33:00 Asia/Singapore] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[25-Jan-2016 03:53:51 Asia/Singapore] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[25-Jan-2016 04:45:23 Asia/Singapore] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[25-Jan-2016 04:52:15 Asia/Singapore] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[25-Jan-2016 08:35:42 Asia/Singapore] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[25-Jan-2016 09:14:38 Asia/Singapore] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[25-Jan-2016 09:17:46 Asia/Singapore] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[25-Jan-2016 13:09:05 Asia/Singapore] PHP Warning:  DOMDocument::load(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[25-Jan-2016 13:09:05 Asia/Singapore] PHP Warning:  DOMDocument::load(http://community.ragnarok.world/index.php?/forum/19-news.xml): failed to open stream: php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[25-Jan-2016 13:09:05 Asia/Singapore] PHP Warning:  DOMDocument::load(): I/O warning : failed to load external entity &quot;http://community.ragnarok.world/index.php?/forum/19-news.xml&quot; in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[25-Jan-2016 13:10:47 Asia/Singapore] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[25-Jan-2016 23:16:49 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[25-Jan-2016 23:16:50 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[25-Jan-2016 23:17:40 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 00:15:43 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 00:15:44 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 00:15:45 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:00:54 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:33:01 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:33:02 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:33:05 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:33:06 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:33:33 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:33:34 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:33:34 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:33:51 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:34:01 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:34:02 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:35:48 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[26-Jan-2016 01:35:54 Asia/Singapore] PHP Warning:  DOMDocument::load(): Extra content at the end of the document in http://community.ragnarok.world/index.php?/forum/19-news.xml, line: 2 in /home/ragnarok/public_html/prestige/themes/default/main/rsslib.php on line 64
+[27-Jan-2016 20:17:52 Asia/Manila] PHP Notice:  Undefined offset: 1 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 325
+[27-Jan-2016 21:42:53 Asia/Manila] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[29-Jan-2016 04:10:31 Asia/Manila] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[29-Jan-2016 05:41:19 Asia/Manila] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[29-Jan-2016 11:34:45 Asia/Manila] PHP Strict Standards:  Accessing static property Flux_Mailer::$errLog as non static in /home/ragnarok/public_html/prestige/lib/Flux/Mailer.php on line 21
+[29-Jan-2016 11:34:45 Asia/Manila] PHP Strict Standards:  Accessing static property Flux_Mailer::$log as non static in /home/ragnarok/public_html/prestige/lib/Flux/Mailer.php on line 22
+[29-Jan-2016 11:40:38 Asia/Manila] PHP Strict Standards:  Accessing static property Flux_Mailer::$errLog as non static in /home/ragnarok/public_html/prestige/lib/Flux/Mailer.php on line 21
+[29-Jan-2016 11:40:38 Asia/Manila] PHP Strict Standards:  Accessing static property Flux_Mailer::$log as non static in /home/ragnarok/public_html/prestige/lib/Flux/Mailer.php on line 22
+[29-Jan-2016 11:55:51 Asia/Manila] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[29-Jan-2016 20:56:53 Asia/Manila] PHP Notice:  Undefined offset: 0 in /home/ragnarok/public_html/prestige/lib/Flux/Template.php on line 1231
+[30-Jan-2016 23:07:02 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 19
+[30-Jan-2016 23:07:07 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 43
+[30-Jan-2016 23:38:03 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 43
+[30-Jan-2016 23:38:08 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 43
+[30-Jan-2016 23:44:39 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 65
+[30-Jan-2016 23:44:42 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 65
+[30-Jan-2016 23:44:53 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 65
+[30-Jan-2016 23:45:04 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 43
+[30-Jan-2016 23:45:07 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 65
+[30-Jan-2016 23:45:51 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 85
+[30-Jan-2016 23:46:05 Asia/Manila] PHP Parse error:  syntax error, unexpected ':' in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 66
+[30-Jan-2016 23:51:19 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 153
+[30-Jan-2016 23:52:57 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 153
+[30-Jan-2016 23:52:59 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 153
+[30-Jan-2016 23:53:34 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 153
+[30-Jan-2016 23:55:16 Asia/Manila] PHP Parse error:  syntax error, unexpected '<' in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 46
+[30-Jan-2016 23:55:19 Asia/Manila] PHP Parse error:  syntax error, unexpected '<' in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 46
+[31-Jan-2016 00:00:25 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 65
+[31-Jan-2016 00:00:34 Asia/Manila] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ragnarok/public_html/prestige/themes/default/purchase/index.php on line 65

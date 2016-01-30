@@ -1,0 +1,22 @@
+/*
+	Author: rahuldev345 ( eADev )
+	Website: http://ea-dev.com
+	The generated codes are not for public use and should not be without
+	obtaining the license.
+*/
+.CustomItem { background: url('../img/CustomItem.png') no-repeat; width: 278px; height:128px; float: left; margin: 15px 0 0; }.ItemRate { width: 160px; height: 118px; 
+float: left; }.ItemImage { width: 85px; height: 120px; float: left; }.ItemName { width: 185px; height: 25px;  float: left; color: black; 
+font-weight: bold; font-size: 9pt; line-height: 30px;}.ItemImage img { margin: 10px 0 0 5px; }.ItemDesc { font-family:Arial, Helvetica, sans-serif; 
+padding: 3px; font-size:12px; color:#000000; width:185px; height:82px; overflow:auto; }.ItemBDesc { color: black; }
+.ItemCost { padding: 28px 0 5px 10px; color: #FFF; }
+.Quantity { height: 20px; padding: 0 0 10px 10px; color: #FFF; }
+.ItemRate img { margin-left: 10px; }.ItemSlots { clear: both; }
+.Slot0 { background: url('../img/slot0.png') no-repeat; width: 278px; height:27px; margin-top: 3px; }
+.Slot1 { background: url('../img/slot1.png') no-repeat; width: 278px; height:27px; margin-top: 3px; }
+.Slot2 { background: url('../img/slot2.png') no-repeat; width: 278px; height:27px; margin-top: 3px; }
+.Slot3 {background: url('../img/slot3.png') no-repeat; width: 278px; height:27px; margin-top: 3px; }
+.Slot4 { background: url('../img/slot4.png') no-repeat; width: 278px; height:27px; margin-top: 3px; }
+.DonateInfo { color: white; }.ItemBDesc p { display: block; padding: 0; margin: 0; }.ItemBDesc p span.output {
+color: #777; }.shop_menus { clear: both; height: 20px; margin-top: 8px; }
+.shop_menus a { background: #d36d20; border: 0; padding: 5px 20px; border-radius: 2px; outline: 0; color: #FFF; cursor: pointer; border-bottom: 2px solid #9c350e; }
+.qty, .cart-item-count, .cart-sub-total { color: #FFF; }
